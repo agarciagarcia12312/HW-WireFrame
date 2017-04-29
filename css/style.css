@@ -1,0 +1,82 @@
+
+* {
+	margin-left: auto;
+	margin-right: auto;
+}
+body {
+	text-align: center;
+	background-color: #777;
+	content: #ebebeb;
+	font-family: arial;
+	font-size: 18px;
+	width: 960px;
+	align-self: center;
+}
+
+/* make a class id to avoid repetetive code  */
+
+header {
+	background-color: rgb(200,200,200);
+	padding: 30px;
+
+	
+}
+
+nav {
+	background-color: rgb(200,200,200);	
+	padding: 30px;
+
+}
+
+div {
+	clear: both;
+}
+
+
+
+section {
+	float: left;
+	width: 455px;
+	height: 400px;
+	background-color: rgb(200,200,200);
+}
+
+article {
+	margin-left: 8px;
+
+	background-color: #777;
+	width: 440px;
+	height: 300px;
+
+
+}
+
+aside {
+	float: right;
+	display: block;
+	width: 455px;
+	height: 400px;
+	background-color: rgb(200,200,200);
+
+
+}
+
+
+footer {
+	
+	margin-top: 20px;
+	background-color: rgb(200,200,200);
+	padding: 50px;
+	width: 860px;
+	
+}
+
+h3 {
+
+}
+p {
+	padding-left: 20px;
+	background-color: rgb(200,200,200);
+	width: 380px;
+	height: 100px;
+}
